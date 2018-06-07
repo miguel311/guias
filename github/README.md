@@ -1,8 +1,10 @@
+<h1> Guía rapida de github </h1>
+
 $ aptitude install git
 
 $ git config --global user.name "Argenis Osorio" // Asignamos el nombre de usuario que será la firma del usuario en cada commit
 
-$ git config --global user.email aosorio@example.com // igualmente el correo que siempre acompañara al autor de cada commit
+$ git config --global user.email mnarvaez@example.com // igualmente el correo que siempre acompañara al autor de cada commit
 
 $ git init // Inicializar un repositorio
 
@@ -37,7 +39,6 @@ $ git branch -d Nombre_Rama // Borrar una rama, se debe estar en otra rama para 
 $ git branch -D Nombre_Branch // Forzar el borrado de una rama, a veces no se dejan borrar si hay cambios sin guardar.
 
 $ git push origin :the_remote_branch // Borrar una rama del repositorio remoto
-<h1>guia rapida de github<h1>
 
 $ git checkout Nombre_Rama // Cambiarse de rama
 

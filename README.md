@@ -1,1 +1,1 @@
-<h1>Guias pracatica de diferentes contenidos</h1>
+<h1>Guias practica de diferentes contenidos</h1>
