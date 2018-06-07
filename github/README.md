@@ -2,7 +2,7 @@
 
 $ aptitude install git
 
-$ git config --global user.name "Argenis Osorio" // Asignamos el nombre de usuario que será la firma del usuario en cada commit
+$ git config --global user.name "Miguel Narvaez" // Asignamos el nombre de usuario que será la firma del usuario en cada commit
 
 $ git config --global user.email mnarvaez@example.com // igualmente el correo que siempre acompañara al autor de cada commit
 
