@@ -43,3 +43,9 @@ $ git push origin :the_remote_branch // Borrar una rama del repositorio remoto
 $ git checkout Nombre_Rama // Cambiarse de rama
 
 $ git push -f origin master // git push -f <remote> <branch> forzar el push para sobreescribir los ficheros en el repositorio remoto.
+
+forma rapida de eviar datos a git hub
+git brach 
+git add *
+git commit -m 'comentario'
+git push origin amster
